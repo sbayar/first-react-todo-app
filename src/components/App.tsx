@@ -9,8 +9,7 @@ import Start from "./pages/Start";
 const App = () => {
   return (
     <Router>
-      <div className="App fam">
-        <div className="container">
+      <div className="container">
           <div className="App-header">
             <Header />
           </div>
@@ -19,7 +18,6 @@ const App = () => {
           <Route path="/about" component={About} />
           <Route path="/todos" component={Todos} />
         </div>
-      </div>
     </Router>
   );
 }
