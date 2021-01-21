@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "title": "Buy milk",
+    "completed": false,
+    "createdBy": "Shanel",
+    "comments": [
+      "There is still some time. But just as a pre-caution I wanna do it ASAP",
+      "Facere similique omnis dignissimos hic eos sunt est.",
+      "Et dolores nihil asperiores quis est expedita iure unde quis."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Go to store at 10AM",
+    "completed": false,
+    "createdBy": "Laney",
+    "comments": [
+      "Well not so bad",
+      "Necessitatibus quod est itaque aliquam eveniet accusantium cumque."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Visit to parents",
+    "completed": false,
+    "createdBy": "Nicola",
+    "comments": ["More lorem", "Ea et rem corporis."]
+  },
+  {
+    "id": 4,
+    "title": "Pack my bag",
+    "completed": true,
+    "createdBy": "Tracy",
+    "comments": [
+      "Eligendi in quo nostrum atque culpa laboriosam perferendis.",
+      "Et est consequatur voluptatem inventore.",
+      "Ut quibusdam labore et vel et veritatis iure consequatur.",
+      "Delectus placeat dolores in sunt."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Do some grossery",
+    "completed": false,
+    "createdBy": "Wilhelmine",
+    "comments": ["Qui exercitationem animi."]
+  },
+  {
+    "id": 6,
+    "title": "Wash the car",
+    "completed": false,
+    "createdBy": "Kianna",
+    "comments": [
+      "There is still some time. But just as a pre-caution I wanna do it ASAP"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Dont forget soccer game",
+    "completed": false,
+    "createdBy": "Oswaldo",
+    "comments": [
+      "Asperiores voluptatibus qui.",
+      "Soluta eligendi debitis iste ut blanditiis dolorem."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Buy tickets",
+    "completed": true,
+    "createdBy": "Jarret",
+    "comments": [
+      "Et voluptas esse sint et unde.",
+      "Sint veritatis magni qui aut velit sunt est dolorem."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Watch netflix",
+    "completed": false,
+    "createdBy": "Mitchel",
+    "comments": [
+      "Omnis unde hic aperiam dolorum iste.",
+      "Vel voluptate cupiditate nam quo mollitia porro.",
+      "Vel explicabo dolor fugiat eum voluptatibus consequatur autem possimus."
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Do some work",
+    "completed": true,
+    "createdBy": "Travis",
+    "comments": [
+      "There is still some time. But just as a pre-caution I wanna do it ASAP",
+      "Quia omnis aspernatur adipisci atque minus non nulla dignissimos.",
+      "Autem nihil voluptate aut."
+    ]
+  }
+]
